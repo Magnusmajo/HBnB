@@ -4,6 +4,7 @@
 
 # Description: High-Level Package Diagram
 ![Package_Diagram](https://github.com/user-attachments/assets/6999f96d-feec-4fb9-8888-dcd5c6354125)
+
 This diagram represents a layered application architecture, which organizes the code into different layers, each with specific responsibilities. Let’s break it down layer by layer:
 
 ## Explanation:
@@ -18,7 +19,7 @@ This diagram represents a layered application architecture, which organizes the 
 - **Business Components**: Contains the specific logic for each part of the business.
 - **Business Entities**: Represents business data and objects, such as User Service, Place Service, Review Service, Amenity Service, etc.
 
-### Data Access Layer
+### Persistence Layer
 This layer handles interaction with data sources and is divided into:
 - **Data Storage**: It stores the information handled by the entities.
 - **Service**: Facilitates communication with other data services.

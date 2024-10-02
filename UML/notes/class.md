@@ -19,3 +19,9 @@ The diagram shows the four key entities in the Business Logic layer: **User**, *
 - A place can have multiple amenities (one-to-many).
 - A review is written by a user for a place (many-to-one).
 - A place can have multiple reviews (one-to-many).
+
+--
+
+Author: Alexis Rodriguez R.
+An Holberton School Project
+© 2024 Alexis-Holberton School -- All rights reserved --
